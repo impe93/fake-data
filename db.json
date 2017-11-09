@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Catalogo riproduzioni",
+    "oggettiSezione": [
+      { "nome": "Il Kama Sutra Persiano" },
+      { "nome": "Il Corano d'oro" },
+      { "nome": "La nostra collezione" }
+    ]
+  },
+  {
+    "nome": "Eventi e presentazioni",
+    "oggettiSezione": [
+      { "nome": "Golden Koran" }
+    ]
+  },
+  {
+    "nome": "Codici miniati",
+    "oggettiSezione": [
+      { "nome": "La storia" },
+      { "nome": "Strumenti e tecniche" }
+    ]
+  },
+  {
+    "nome": "Informazioni e contatti"
+  }
+]
