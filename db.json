@@ -22,7 +22,11 @@
       ]
     },
     {
-      "nome": "Informazioni e contatti"
+      "nome": "Informazioni",
+      "oggettiSezione": [
+        { "nome": "Contatti" },
+        { "nome": "Come raggiungerci" }
+      ]
     }
   ]
 }
