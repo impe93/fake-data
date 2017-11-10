@@ -3,29 +3,29 @@
     {
       "nome": "Catalogo riproduzioni",
       "oggettiSezione": [
-        { "nome": "Il Kama Sutra Persiano" },
-        { "nome": "Il Corano d'oro" },
-        { "nome": "La nostra collezione" }
+        { "nome": "Il Kama Sutra Persiano", "link":"Il-Kama-Sutra-Persiano" },
+        { "nome": "Il Corano d'oro", "link":"Il-Corano-D-Oro" },
+        { "nome": "La nostra collezione", "link":"La-Nostra-Collezione" }
       ]
     },
     {
       "nome": "Eventi e presentazioni",
       "oggettiSezione": [
-        { "nome": "Golden Koran" }
+        { "nome": "Golden Koran", "link":"Golden-Koran" }
       ]
     },
     {
       "nome": "Codici miniati",
       "oggettiSezione": [
-        { "nome": "La storia" },
-        { "nome": "Strumenti e tecniche" }
+        { "nome": "La storia", "link":"La-Storia" },
+        { "nome": "Strumenti e tecniche", "link":"Strumenti-E-Tecniche" }
       ]
     },
     {
       "nome": "Informazioni",
       "oggettiSezione": [
-        { "nome": "Contatti" },
-        { "nome": "Come raggiungerci" }
+        { "nome": "Contatti", "link":"Contatti"},
+        { "nome": "Come raggiungerci", "link":"Come-Raggiungerci" }
       ]
     }
   ]
