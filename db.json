@@ -36,12 +36,60 @@
       "title": "I libri come opere d'arte",
       "descrizione": "Noi pensiamo che i libri siano delle opere d'arte non solo per il loro contenuto, ma anche in quanto oggetti d'arte in se stessi. A riprova di ciò basti pensare alla grandissima importanza delle miniature nella produzione artistica europea, alla perfetta fusione tra immagini e parole dei manoscritti medioevali, fino alla nascita con il Futurismo del libro d'artista.Con questo spirito noi promuoviamo le riproduzioni di manoscritti miniati ed i libri d'arte in generale, attraverso consulenze, organizzazioni di eventi e canali di vendita.",
       "images": [
-        { "src": "/static/images/codicevolo-big.jpg", "width": 426, "height": 600 },
-        { "src": "/static/images/coranodoro-big.jpg", "width": 405, "height": 600 },
-        { "src": "/static/images/dehistoria-big.jpg", "width": 356, "height": 600 },
-        { "src": "/static/images/deprospectiva-big.jpg", "width": 450, "height": 600 },
-        { "src": "/static/images/hortusamo-big.jpg", "width": 381, "height": 600 },
-        { "src": "/static/images/kitab-big.jpg", "width": 456, "height": 600 }
+        {
+          "src": "/static/images/codicevolo-big.jpg",
+          "width": 426,
+          "height": 600,
+          "alt": "Leonardo Da Vinci - Il codice sul volo degli uccelli 1505"
+        },
+        {
+          "src": "/static/images/coranodoro-big.jpg",
+          "width": 405,
+          "height": 600,
+          "alt": "Il Corano d'oro 1100 circa"
+        },
+        {
+          "src": "/static/images/dehistoria-big.jpg",
+          "width": 356,
+          "height": 600,
+          "alt": "Leonhart Fuchs - De Historia Stirpium 1542"
+        },
+        {
+          "src": "/static/images/deprospectiva-big.jpg", 
+          "width": 450, 
+          "height": 600,
+          "alt": "Piero della Francesca - De prospectiva pingendi 1482"
+        },
+        {
+          "src": "/static/images/hortusamo-big.jpg", 
+          "width": 381, 
+          "height": 600,
+          "alt": "Franciscus De Geest - Hortus Amoenissimus"
+        },
+        {
+          "src": "/static/images/kitab-big.jpg", 
+          "width": 456,
+          "height": 600,
+          "alt": "Muhammad ibn Abi al-Fath - Kitâb al-Diryâq 1199"
+        },
+        {
+          "src": "/static/images/kamasutrapersiano-big.jpeg", 
+          "width": 407, 
+          "height": 600,
+          "alt": "Il Kāma Sūtra Persiano"
+        },
+        {
+          "src": "/static/images/dedivina-big.jpg", 
+          "width": 415, 
+          "height": 600,
+          "alt": "Fra' Luca Pacioli - De Divina Proportione 1497"
+        },
+        {
+          "src": "/static/images/hortuseys-big.jpg", 
+          "width": 497, 
+          "height": 600,
+          "alt": "Basilius Besler - Hortus Eystettensis 1613"
+        }
       ]
     }
   ]
